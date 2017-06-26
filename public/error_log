@@ -1,0 +1,129 @@
+[15-May-2017 13:54:29 UTC] PHP Parse error:  syntax error, unexpected 'Mail' (T_STRING) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 210
+[16-May-2017 10:23:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:24:58 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:29:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:30:36 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:39:38 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:42:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:42:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:43:18 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 233
+[16-May-2017 10:57:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/CustomAuth.php on line 135
+[16-May-2017 11:25:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\URL' not found in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/partnerController.php on line 92
+[16-May-2017 11:43:54 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/partnerController.php on line 103
+[16-May-2017 12:07:13 UTC] PHP Fatal error:  Call to a member function count() on null in /home/cirrb/public_html/cirrbLaravel/app/Http/Controllers/customerController.php on line 217
+[18-May-2017 07:01:15 UTC] PHP Fatal error:  Call to a member function count() on null in /home/cirrb/api.cirrb.com/app/Http/Controllers/customerController.php on line 140
+[26-May-2017 11:39:17 UTC] PHP Fatal error:  Call to undefined function mysqli_conncet() in /home/cirrb/api.cirrb.com/public/cron.php on line 3
+[26-May-2017 11:39:22 UTC] PHP Fatal error:  Call to undefined function mysqli_conncet() in /home/cirrb/api.cirrb.com/public/cron.php on line 3
+[26-May-2017 11:39:49 UTC] PHP Fatal error:  Call to undefined function mysqli_conncet() in /home/cirrb/api.cirrb.com/public/cron.php on line 3
+[26-May-2017 11:40:46 UTC] PHP Notice:  Undefined variable: msg in /home/cirrb/api.cirrb.com/public/cron.php on line 15
+[26-May-2017 11:58:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[26-May-2017 11:58:05 UTC] PHP Notice:  Undefined variable: msg in /home/cirrb/api.cirrb.com/public/cron.php on line 15
+[26-May-2017 12:01:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[26-May-2017 12:01:12 UTC] PHP Notice:  Undefined variable: msg in /home/cirrb/api.cirrb.com/public/cron.php on line 15
+[26-May-2017 12:01:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[26-May-2017 12:01:14 UTC] PHP Notice:  Undefined variable: msg in /home/cirrb/api.cirrb.com/public/cron.php on line 15
+[26-May-2017 12:02:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[26-May-2017 12:02:28 UTC] PHP Notice:  Undefined variable: msg in /home/cirrb/api.cirrb.com/public/cron.php on line 15
+[26-May-2017 12:03:14 UTC] PHP Notice:  Undefined variable: msg in /home/cirrb/api.cirrb.com/public/cron.php on line 15
+[26-May-2017 12:03:47 UTC] PHP Notice:  Undefined variable: msg in /home/cirrb/api.cirrb.com/public/cron.php on line 15
+[26-May-2017 12:07:36 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 22
+[26-May-2017 12:07:55 UTC] PHP Catchable fatal error:  Object of class DateInterval could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 22
+[26-May-2017 12:09:06 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/cirrb/api.cirrb.com/public/cron.php on line 18
+[29-May-2017 08:32:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:33:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:33:58 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:34:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:35:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:36:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:42:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:42:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:42:18 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:42:32 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:43:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:43:04 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:43:13 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:43:51 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:44:01 UTC] PHP Parse error:  syntax error, unexpected 'Order' (T_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 9
+[29-May-2017 08:49:57 UTC] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:49:57 UTC] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:50:01 UTC] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:50:01 UTC] PHP Warning:  date_format() expects exactly 2 parameters, 1 given in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 08:53:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (Y-m-d h:i:s) at position 1 (-): Unexpected character' in /home/cirrb/api.cirrb.com/public/cron.php:18
+Stack trace:
+#0 /home/cirrb/api.cirrb.com/public/cron.php(18): DateTime->__construct('Y-m-d h:i:s')
+#1 {main}
+  thrown in /home/cirrb/api.cirrb.com/public/cron.php on line 18
+[29-May-2017 08:54:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (Y-m-d h:i:s) at position 1 (-): Unexpected character' in /home/cirrb/api.cirrb.com/public/cron.php:18
+Stack trace:
+#0 /home/cirrb/api.cirrb.com/public/cron.php(18): DateTime->__construct('Y-m-d h:i:s')
+#1 {main}
+  thrown in /home/cirrb/api.cirrb.com/public/cron.php on line 18
+[29-May-2017 09:05:12 UTC] PHP Fatal error:  Call to a member function diff() on string in /home/cirrb/api.cirrb.com/public/cron.php on line 19
+[29-May-2017 09:05:46 UTC] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, string given in /home/cirrb/api.cirrb.com/public/cron.php on line 19
+[29-May-2017 09:05:46 UTC] PHP Fatal error:  Call to a member function format() on boolean in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:06:01 UTC] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, string given in /home/cirrb/api.cirrb.com/public/cron.php on line 19
+[29-May-2017 09:06:01 UTC] PHP Fatal error:  Call to a member function format() on boolean in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:06:19 UTC] PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, string given in /home/cirrb/api.cirrb.com/public/cron.php on line 19
+[29-May-2017 09:06:19 UTC] PHP Fatal error:  Call to a member function format() on boolean in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:07:20 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:08:01 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:09:02 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:10:35 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:11:01 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:11:16 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 20
+[29-May-2017 09:23:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($row[&quot;created_at&quot;]) at position 0 ($): Unexpected character' in /home/cirrb/api.cirrb.com/public/cron.php:17
+Stack trace:
+#0 /home/cirrb/api.cirrb.com/public/cron.php(17): DateTime->__construct('$row["created_a...')
+#1 {main}
+  thrown in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 09:23:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string ($row[&quot;created_at&quot;]) at position 0 ($): Unexpected character' in /home/cirrb/api.cirrb.com/public/cron.php:17
+Stack trace:
+#0 /home/cirrb/api.cirrb.com/public/cron.php(17): DateTime->__construct('$row["created_a...')
+#1 {main}
+  thrown in /home/cirrb/api.cirrb.com/public/cron.php on line 17
+[29-May-2017 09:24:51 UTC] PHP Parse error:  syntax error, unexpected '8' (T_LNUMBER) in /home/cirrb/api.cirrb.com/public/cron.php on line 19
+[29-May-2017 09:25:01 UTC] PHP Parse error:  syntax error, unexpected '8' (T_LNUMBER) in /home/cirrb/api.cirrb.com/public/cron.php on line 19
+[29-May-2017 09:50:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cirrb/api.cirrb.com/public/cron.php on line 19
+[29-May-2017 09:56:36 UTC] PHP Parse error:  syntax error, unexpected ''id]."is dissmissed";' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/cirrb/api.cirrb.com/public/cron.php on line 23
+[29-May-2017 09:57:39 UTC] PHP Parse error:  syntax error, unexpected ''id]."is dissmissed";' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/cirrb/api.cirrb.com/public/cron.php on line 23
+[29-May-2017 09:57:53 UTC] PHP Parse error:  syntax error, unexpected ''id]."is dissmissed";' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/cirrb/api.cirrb.com/public/cron.php on line 23
+[29-May-2017 10:16:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:16:51 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:19:36 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:20:35 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:20:47 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:21:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:21:12 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:21:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:21:29 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:21:33 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:21:38 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/cirrb/api.cirrb.com/app/Http/Controllers/apiRestaurantController.php on line 522
+[29-May-2017 10:40:01 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 11
+[29-May-2017 10:40:30 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 11
+[29-May-2017 10:40:32 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 11
+[29-May-2017 10:40:42 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 11
+[29-May-2017 10:42:34 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 11
+[29-May-2017 10:45:10 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in /home/cirrb/api.cirrb.com/public/cron.php on line 14
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:09:21 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 26
+[29-May-2017 11:10:01 UTC] PHP Notice:  Undefined variable: hours in /home/cirrb/api.cirrb.com/public/cron.php on line 28
+[29-May-2017 11:39:22 UTC] PHP Parse error:  syntax error, unexpected '$minutes' (T_VARIABLE) in /home/cirrb/api.cirrb.com/public/cron.php on line 22
+[29-May-2017 11:39:52 UTC] PHP Parse error:  syntax error, unexpected '$minutes' (T_VARIABLE) in /home/cirrb/api.cirrb.com/public/cron.php on line 22
+[29-May-2017 11:40:01 UTC] PHP Parse error:  syntax error, unexpected '$minutes' (T_VARIABLE) in /home/cirrb/api.cirrb.com/public/cron.php on line 22

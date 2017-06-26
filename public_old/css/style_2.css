@@ -1,0 +1,104 @@
+/* CSS Document */
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #ffffff url('../images/background.png') bottom right;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#loadingScreen {
+	position: fixed;
+}
+
+#systemNotificationMessage {
+	position: fixed;
+	top: 0px;
+	right: 15px;
+	min-width: 350px;
+	max-width: 500px;
+	display: none;
+}
+
+#systemNotificationMessage #icon {
+	float: left;
+}
+
+a {
+	color: #e5785c;
+}
+a.inline.button {
+	color: #e5785c;
+	margin-right: 15px;
+	display: inline-block;
+}
+
+.link.inline.button {
+	color: #e5785c;
+	margin-right: 15px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+.topMargin {
+	margin-top: 20px !important;
+}
+
+.clickable {
+	cursor: pointer !important;
+}
+
+.hidden {
+	display: none;
+}
+
+#sideMenu {
+	width: 250px;
+	float: left;
+	top: 0px;
+	position: fixed;
+	overflow: auto;
+	background: #333333 !important;
+	padding: 0px 10px 0px 0px;
+	height: 100vh;
+	margin: 0px;
+	z-index: 10000;
+}
+
+#sideMenu .logo {
+	padding: 10px 0px;
+}
+
+#sideMenu .title {
+    color: #8aacb5;
+    padding: 20px 10px;
+    border-bottom: 1px solid #444;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+#sideMenu .title.clickable:hover {
+    color: #a5c7d0;
+}
+
+#sideMenu .menu {
+    border-left: 2px solid #444;
+    padding-left: 20px;
+}
+
+.fullWidthMap {
+	width: 100%;
+	height: 500px;
+}
+
+.button.primary {
+	background: #8aacb5 !important;
+}
+
+.button.secondaryToPrimary {
+	background: #e5785c !important;
+}

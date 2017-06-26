@@ -1,0 +1,247 @@
+#wrapper {
+  padding-left: 225px;
+  transition: all 0.4s ease 0s;
+}
+.sidebar-nav .logo img{
+  width:200px;
+}
+.sidebar-nav .logo a{
+  padding: 0px;
+  padding-bottom: 12px;
+}
+.sidebar-nav .logo{
+  margin-top: 12px;
+}
+#sidebar-wrapper {
+  margin-left: -250px;
+  left: 250px;
+  width: 225px;
+  background: #333333 ;
+  position: fixed;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 1000;
+  transition: all 0.4s ease 0s;
+}
+
+#wrapper.active {
+  padding-left: 0;
+}
+
+#wrapper.active #sidebar-wrapper {
+  left: 0;
+}
+
+#page-content-wrapper {
+  width: 100%;
+}
+
+#sidebar-wrapper .nav .open>a, #sidebar-wrapper .nav .open>a:focus, #sidebar-wrapper .nav .open>a:hover{
+  background: #333;
+  border-color: #444;
+}
+#sidebar-wrapper ul{
+  margin:0px;
+  padding: 0px;
+}
+.error{
+
+  color: red;
+
+}
+.sidebar-nav {
+  position: absolute;
+  top: 0;
+  width: 225px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.sidebar-nav .dropdown-menu{
+  position: relative;
+  box-shadow: none;
+  width: 98%;
+  border:none;
+}
+#add-restaurant-form{
+  display: none;
+}
+.table-box{
+  margin-top: 30px;
+}
+.sidebar-nav .dropdown-menu a{
+  padding:8px 19px;
+  border-bottom: none;
+  font-weight: normal;
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+.sidebar-nav li {
+  text-indent: 10px;
+  clear:both;
+}
+
+.sidebar-nav li a {
+  display: block;
+  text-decoration: none;
+  color: #8aacb5;
+  padding: 20px 10px;
+  border-bottom: 1px solid #444;
+  font-size: 1.1em;
+  font-weight: bold;
+  background-color: #333;
+}
+
+.sidebar-nav li a span:before {
+  position: absolute;
+  left: 0;
+  color: #41484c;
+  text-align: center;
+  width: 20px;
+  line-height: 18px;
+}
+
+.sidebar-nav li a:hover,
+.sidebar-nav li.active {
+  color: #fff;
+  background:#333;
+  text-decoration: none;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+  text-decoration: none;
+}
+
+.sidebar-nav > .sidebar-brand {
+  height: 70px;
+  line-height: 60px;
+  font-size: 18px;
+}
+
+.sidebar-nav > .sidebar-brand a {
+  color: #999999;
+}
+
+.sidebar-nav > .sidebar-brand a:hover {
+  color: #fff;
+  background: none;
+}
+
+
+
+.content-header {
+  height: 65px;
+  line-height: 65px;
+}
+
+.content-header h1 {
+  margin: 0;
+  margin-left: 20px;
+  line-height: 65px;
+  display: inline-block;
+}
+
+#menu-toggle {
+    text-decoration: none;
+}
+
+.btn-menu {
+  color: #000;
+} 
+
+.inset {
+  padding: 20px;
+}
+.restaurant-box p{
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  padding: 5px 0;
+  width: 100%;
+  margin: 16px 0px;
+}
+.add-restaurant{
+  border-radius: 4px;
+  background: #E0E1E2;
+  padding-left: 0;
+  padding-right: 10px;
+}
+.add-restaurant span{
+  background: #ccc;
+  padding:10px;
+  margin-right: 10px;
+}
+.save-btn{
+  background: #8AACB5 !important;
+  color:#FFF;
+}
+.save-btn span{
+  background:#84A4AC; 
+}
+.save-btn:hover{
+  background: #1678c2;
+}
+.open-btn{
+  background: #E5785C !important;
+  color: white;
+}
+.open-btn span{
+  background:#DA7258; 
+}
+.cancel-btn{
+  background: #CACBCD !important;
+  color:black !important;
+}
+.cancel-btn span{
+  background: #C0C1C3;
+}
+.cancel-btn: hover{
+  background: red !important;
+}
+.all_buttns{
+  margin-bottom:15px; 
+}
+.restaurant-result{
+  margin-top: 20px;
+}
+.restaurant-result p{
+  font-weight: bold;
+}
+.restaurant-result h5{
+  margin:8px 0px;
+}
+.field-hide{
+  display: none;
+}
+.field-show{
+  display: block;
+}
+@media (max-width:767px) {
+
+#wrapper {
+  padding-left: 0;
+}
+
+#sidebar-wrapper {
+  left: 0;
+}
+
+#wrapper.active {
+  position: relative;
+  left: 250px;
+}
+
+#wrapper.active #sidebar-wrapper {
+  left: 250px;
+  width: 250px;
+  transition: all 0.4s ease 0s;
+}
+
+#menu-toggle {
+  display: inline-block;
+}
+
+.inset {
+  padding: 15px;
+}
+
+}
